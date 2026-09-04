@@ -100,7 +100,7 @@ Clean and preprocess the logistics dataset and create useful delivery-performanc
 
 ### Files
 
-- `Week_2_Logistics_Data_Analyst_Task_Report.docx`
+- `Week_2_Logistics_Data_Analysis_Report.docx`
 - `Week_2_Logistics_Data_Preprocessing.ipynb`
 - `Olist_Task2_Preprocessed_Data.csv`
 
